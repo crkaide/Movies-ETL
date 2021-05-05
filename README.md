@@ -11,9 +11,7 @@ Following the analysis above, the client requested Python code to keep the SQL t
 ## Results
 
 _*movies_query.png*_
-
-
+![movies_query.png](https://github.com/crkaide/Movies-ETL/blob/main/Resources/movies_query.png?raw=true)
 
 _*ratings_query.png*_
-
-
+![ ratings_query.png](https://github.com/crkaide/Movies-ETL/blob/main/Resources/ratings_query.png?raw=true)
